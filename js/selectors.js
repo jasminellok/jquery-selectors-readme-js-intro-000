@@ -1,8 +1,5 @@
 // declare your functions here...
-$(document).ready(function() {
-  function paragraphSelector() {
-    $("p").not(".poop");
-  }
+function paragraphSelector() {
+  $("p").not(".poop");
+}
 
-
-});
